@@ -1,0 +1,6 @@
+# Exclude .DS_Store Files
+.DS_Store
+
+# Don't track .pyc files
+*.pyc
+

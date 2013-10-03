@@ -1,0 +1,3 @@
+#!/bin/sh
+[ -d /usr/local/bin ] || mkdir -p /usr/local/bin
+/bin/ln -sf /Applications/TextMate.app/Contents/Resources/mate /usr/local/bin/mate
