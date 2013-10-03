@@ -4,8 +4,8 @@
 <dict>
 	<key>Description</key>
 	<string>Downloads the latest version of TextMate2.</string>
-    <key>Identifier</key>
-    <string>com.github.golbiga.download.TextMate2</string>
+    	<key>Identifier</key>
+    	<string>com.github.golbiga.download.TextMate2</string>
 	<key>Input</key>
     <dict>
         <key>NAME</key>
