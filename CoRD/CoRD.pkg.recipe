@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads the latest TextMate 2 and creates a package.</string>
+	<string>Downloads the latest version of CoRD and creates a package.</string>
 	<key>Identifier</key>
 	<string>com.github.golbiga.pkg.CoRD</string>
 	<key>Input</key>
