@@ -32,25 +32,6 @@
 			<true/>
 			<key>unattended_uninstall</key>
 			<true/>
-			<key>installs</key>
-				<array>
-					<dict>
-						<key>CFBundleIdentifier</key>
-						<string>com.macvector.MacVector</string>
-						<key>CFBundleName</key>
-						<string>MacVector</string>
-						<key>CFBundleShortVersionString</key>
-						<string>13.0.3</string>
-						<key>minosversion</key>
-						<string>10.6</string>
-						<key>path</key>
-						<string>/Applications/MacVector/MacVector.app</string>
-						<key>type</key>
-						<string>application</string>
-						<key>version_comparison_key</key>
-						<string>CFBundleShortVersionString</string>
-					</dict>
-				</array>
 			<key>items_to_copy</key>
 			<array>
 				<dict>
