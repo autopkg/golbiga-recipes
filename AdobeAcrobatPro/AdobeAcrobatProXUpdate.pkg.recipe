@@ -5,7 +5,7 @@
 	<key>ParentRecipe</key>
 	<string>com.github.autopkg.download.AdobeAcrobatProXUpdate</string>
 	<key>Description</key>
-	<string>Downloads the latest version of Adobe Acrobat Pro and extracts the package.</string>
+	<string>Downloads updates for Adobe Acrobat Pro X or XI and copies pkg.</string>
 	<key>Identifier</key>
 	<string>com.github.autopkg.pkg.AdobeAcrobatProXUpdate</string>
 	<key>Input</key>
