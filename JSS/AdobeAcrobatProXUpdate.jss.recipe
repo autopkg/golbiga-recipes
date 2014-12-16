@@ -18,7 +18,7 @@ into your JSS.</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>%RECIPE_DIR%/PolicyTemplate.xml</string>
 		<key>ICON</key>
-		<string>%RECIPE_DIR%/AdobeAcrobatPro.png</string>
+		<string>%RECIPE_DIR%/AdobeAcrobat.png</string>
 		<key>GROUP_NAME</key>
 		<string>AdobeAcrobatProXUpdate-smart</string>
 		<key>GROUP_TEMPLATE</key>
