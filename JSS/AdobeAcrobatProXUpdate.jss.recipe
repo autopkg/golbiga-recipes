@@ -9,6 +9,10 @@ into your JSS.</string>
 	<string>com.github.autopkg.jss.AdobeAcrobatProXUpdate</string>
 	<key>Input</key>
 	<dict>
+		<key>MAJOR_VERSION</key>
+		<string>10</string>
+		<key>VERSION</key>
+		<string>latest</string>
 		<key>NAME</key>
 		<string>AdobeAcrobatProX_Update</string>
 		<key>CATEGORY</key>
