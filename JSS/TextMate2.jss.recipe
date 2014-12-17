@@ -22,6 +22,8 @@
 			<string>TextMate2-update-smart</string>
 			<key>GROUP_TEMPLATE</key>
 			<string>%RECIPE_DIR%/TextMate2SmartGroupTemplate.xml</string>
+			<key>SCRIPT_TEMPLATE</key>
+			<string>%RECIPE_DIR%/TextMate2ScriptTemplate.xml</string>
 			<key>DESCRIPTION</key>
 			<string>TextMate brings Apple's approach to operating systems into the world of text editors.</string>
 		</dict>
@@ -44,6 +46,17 @@
 					<string>%POLICY_TEMPLATE%</string>
 					<key>self_service_icon</key>
 					<string>%ICON%</string>
+					<key>self_service_description</key>
+					<string>%DESCRIPTION%</string>
+					<key>scripts</key>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>%RECIPE_DIR%/TextMate2Preinstall.sh</string>
+							<key>template_path</key>
+							<string>%SCRIPT_TEMPLATE%</string>
+						</dict>
+					</array>
 					<key>groups</key>
 					<array>
 						<dict>

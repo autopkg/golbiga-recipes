@@ -1,0 +1,10 @@
+<script>
+    <name>TextMate2Preinstall.sh</name>
+    <category>Testing</category>
+    <filename>TextMate2Preinstall.sh</filename>
+    <info />
+    <notes />
+    <priority>Before</priority>
+    <parameters />
+    <os_requirements />
+</script>
