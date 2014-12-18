@@ -15,6 +15,8 @@ into your JSS.</string>
 		<string>latest</string>
 		<key>NAME</key>
 		<string>AdobeAcrobatProX_Update</string>
+       	 	<key>JSS_INVENTORY_NAME</key>
+        		<string>Adobe Acrobat Pro..app</string>
 		<key>CATEGORY</key>
 		<string>Adobe Updates</string>
 		<key>POLICY_CATEGORY</key>
@@ -41,6 +43,8 @@ into your JSS.</string>
 			<dict>
 				<key>prod_name</key>
 				<string>%NAME%</string>
+				<key>jss_inventory_name</key>
+				<string>%JSS_INVENTORY_NAME%</string>
 				<key>category</key>
 				<string>%CATEGORY%</string>
 				<key>policy_category</key>
@@ -49,6 +53,8 @@ into your JSS.</string>
 				<string>%POLICY_TEMPLATE%</string>
 				<key>self_service_icon</key>
 				<string>%ICON%</string>
+				<key>self_service_description</key>
+				<string>%DESCRIPTION%</string>
 				<key>groups</key>
 				<array>
 					<dict>
