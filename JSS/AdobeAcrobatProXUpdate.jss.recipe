@@ -16,7 +16,7 @@ into your JSS.</string>
 		<key>NAME</key>
 		<string>AdobeAcrobatProX_Update</string>
        	 	<key>JSS_INVENTORY_NAME</key>
-        		<string>Adobe Acrobat Pro..app</string>
+        	<string>Adobe Acrobat Pro.app</string>
 		<key>CATEGORY</key>
 		<string>Adobe Updates</string>
 		<key>POLICY_CATEGORY</key>
