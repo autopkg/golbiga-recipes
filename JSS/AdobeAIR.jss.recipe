@@ -11,6 +11,8 @@ Based on jamesz's work here: https://github.com/jamesez/automunki/tree/master/ad
         <dict>
             <key>NAME</key>
             <string>AdobeAIR</string>
+			<key>JSS_INVENTORY_NAME</key>
+			<string>Adobe AIR Application Installer.app</string>
             <key>CATEGORY</key>
             <string>Media Plugins and Viewers</string>
             <key>POLICY_CATEGORY</key>
