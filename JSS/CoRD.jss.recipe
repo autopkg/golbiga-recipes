@@ -5,7 +5,7 @@
         <key>Description</key>
         <string>Downloads the latest version of CoRD and creates a package. Then, uploads to the JSS.</string>
         <key>Identifier</key>
-        <string>com.github.autopkgg.jss.CoRD</string>
+        <string>com.github.golbiga.jss.CoRD</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>
