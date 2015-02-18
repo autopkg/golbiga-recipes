@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>com.github.autopkg.jss.VMwareFusion</string>
+	<string>com.github.golbiga.jss.VMwareFusion</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
