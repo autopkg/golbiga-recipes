@@ -33,7 +33,7 @@
         <key>MinimumVersion</key>
         <string>0.2.1</string>
         <key>ParentRecipe</key>
-        <string>com.github.golbiga.pkg.CoRD</string>
+        <string>io.github.hjuutilainen.pkg.CoRD</string>
         <key>Process</key>
         <array>
             <dict>
