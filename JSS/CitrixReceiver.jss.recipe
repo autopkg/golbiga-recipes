@@ -5,7 +5,7 @@
         <key>Description</key>
         <string>Downloads the latest CitrixReceiver version and extracts the package. Then, uploads to the JSS.</string>
         <key>Identifier</key>
-        <string>com.github.autopkg.jss.CitrixReceiver</string>
+        <string>com.github.golbiga.jss.CitrixReceiver</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>
