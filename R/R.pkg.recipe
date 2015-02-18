@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads updates for R and copies pkg.</string>
 	<key>Identifier</key>
-	<string>com.github.autopkg.pkg.R</string>
+	<string>com.github.golbiga.pkg.R</string>
 	<key>Input</key>
 	<dict>
 		<key>Name</key>
