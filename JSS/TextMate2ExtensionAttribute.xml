@@ -7,7 +7,7 @@
         <platform>Mac</platform>
         <script>#!/bin/bash
 
-TextMateVersion=$(defaults read /Applications/TextMate.app/Contents/Info.plist  CFBundleVersion)
+TextMateVersion=$(defaults read /Applications/TextMate.app/Contents/Info.plist  CFBundleShortVersionString)
 
 echo "&lt;result&gt;$TextMateVersion&lt;/result&gt;"
 
