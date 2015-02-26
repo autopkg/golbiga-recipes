@@ -43,9 +43,9 @@ so you may need to verify that any particular combination is offered. Then, uplo
 		<key>JSS_INVENTORY_NAME</key>
 		<string>Firefox.app</string>
 		<key>ORG_NAME</key>
-        <string>Customized</string>
-        <key>PKG_ID</key>
-        <string>org.mozilla.firefox.pkg</string>
+        	<string>Customized</string>
+        	<key>PKG_ID</key>
+        	<string>org.mozilla.firefox.pkg</string>
 		<key>CATEGORY</key>
 		<string>Web Browsers and Internet Utilities</string>
 		<key>DESCRIPTION</key>
