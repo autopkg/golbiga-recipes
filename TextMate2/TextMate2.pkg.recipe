@@ -67,7 +67,7 @@
 						<key>pkgdir</key>
 						<string>%RECIPE_CACHE_DIR%</string>
 						<key>version</key>
-						<string>%version%</string>
+						<string>2.0</string>
 						<key>id</key>
 						<string>com.macromates.TextMate.preview</string>
 						<key>options</key>
