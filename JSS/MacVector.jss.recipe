@@ -3,9 +3,9 @@
 <plist version="1.0">
     <dict>
         <key>Description</key>
-        <string>Downloads the latest version of MacVector 13 and creates a package. Then, uploads to the JSS.</string>
+        <string>Downloads the latest version of MacVector and creates a package. Then, uploads to the JSS.</string>
         <key>Identifier</key>
-        <string>com.github.golbiga.jss.MacVector13</string>
+        <string>com.github.golbiga.jss.MacVector</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>
@@ -30,7 +30,7 @@
         <key>MinimumVersion</key>
         <string>0.4.0</string>
         <key>ParentRecipe</key>
-        <string>com.github.golbiga.pkg.MacVector13</string>
+        <string>com.github.golbiga.pkg.MacVector</string>
         <key>Process</key>
         <array>
             <dict>
