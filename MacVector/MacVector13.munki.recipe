@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads the current release version of MacVector 13 and imports into Munki.</string>
+	<string>Downloads the current release version of MacVector and imports into Munki.</string>
 	<key>Identifier</key>
-	<string>com.github.golbiga.munki.MacVector13</string>
+	<string>com.github.golbiga.munki.MacVector</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -25,7 +25,7 @@
 			<key>developer</key>
 			<string>MacVector Inc</string>
 			<key>display_name</key>
-			<string>MacVector 13</string>
+			<string>MacVector</string>
 			<key>name</key>
 			<string>%NAME%</string>
 			<key>unattended_install</key>
@@ -46,7 +46,7 @@
 	<key>MinimumVersion</key>
 	<string>0.3.1</string>
 	<key>ParentRecipe</key>
-	<string>com.github.golbiga.download.MacVector13</string>
+	<string>com.github.golbiga.download.MacVector</string>
 	<key>Process</key>
 	<array>
 		<dict>

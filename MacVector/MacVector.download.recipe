@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads the current release version of MacVector 13.</string>
+	<string>Downloads the current release version of MacVector.</string>
 	<key>Identifier</key>
-	<string>com.github.golbiga.download.MacVector13</string>
+	<string>com.github.golbiga.download.MacVector</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
