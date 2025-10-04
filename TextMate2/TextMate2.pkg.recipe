@@ -70,8 +70,6 @@
 						<string>2.0</string>
 						<key>id</key>
 						<string>com.macromates.TextMate.preview</string>
-						<key>options</key>
-						<string>purge_ds_store</string>
 						<key>scripts</key>
 						<string>Scripts</string>
 						<key>chown</key>
